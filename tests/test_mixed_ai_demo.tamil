@@ -1,0 +1,19 @@
+பதிப்பி "🌟 தமிழ் + Python AI Seed Test 🌟"
+
+#PYTHON_START
+print("💙 Python AI Seed Demo")
+
+# Simulate TTS
+try:
+    from gtts import gTTS
+    tts = gTTS("Vanakkam Tamil AI!")
+    print("gTTS library imported ✅")
+except ImportError:
+    print("gTTS not installed. Skipping demo.")
+
+# Simulate AI logic
+name = "Kamal"
+print(f"AI says: Welcome, {name}!")
+#PYTHON_END
+
+பதிப்பி "🌟 AI Seed Test முடிந்தது 🌟"

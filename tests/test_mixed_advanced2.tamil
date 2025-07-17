@@ -1,0 +1,26 @@
+பதிப்பி "🌟 தமிழ் + Python Advanced Test 2 🌟"
+
+அ = 7
+ப = 3
+பதிப்பி "அ:", அ
+பதிப்பி "ப:", ப
+
+மொத்தம் = அ + ப
+பதிப்பி "மொத்தம்:", மொத்தம்
+
+#PYTHON_START
+print("💙 Python doing math")
+a = 7
+b = 3
+result = a ** b  # 7^3
+print("7 raised to 3 =", result)
+
+import math
+print("Square root of 144 =", math.sqrt(144))
+
+# mixing loop
+for i in range(3):
+    print("Python Loop", i)
+#PYTHON_END
+
+பதிப்பி "🌟 Test 2 முடிந்தது 🌟"

@@ -1,0 +1,8 @@
+பதிப்பி "100 lines test!"
+
+எண் = 0
+ஆக எண் = 0 முதல் 10 வரை:
+    பதிப்பி "Loop:", எண்
+முடி
+
+# Repeat this 10 times to reach 100 lines!
